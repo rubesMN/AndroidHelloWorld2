@@ -10,5 +10,5 @@ public class HelloAndroid extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
     }
-    /* comment added to make a change */
+    /* comment added to make a change change 3*/
 }
